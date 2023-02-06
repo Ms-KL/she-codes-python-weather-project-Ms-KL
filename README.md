@@ -13,4 +13,4 @@ These outputs also needed to pass pre-created Unit Tests.<br>
 * Unit Testing
 
 ### Passing Tests:
-![image](test_screenshot\python_assignment_test_pass.jpg)
+![image](/test_screenshot/python_assignment_test_pass.jpg/)
